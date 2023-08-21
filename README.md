@@ -12,7 +12,7 @@ This project involves scraping data from Amazon search results and performing da
 
 ## Project Steps for task 2
 
-1. **Scraping Amazon Data** (`final.py`):
+1. **Scraping Amazon Data**:
    - Due to restrictions with BeautifulSoup, the web scraping tool webscraper.io extension was used.
    - The resulting data was saved as analystt.csv.
 
