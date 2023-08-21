@@ -6,11 +6,11 @@ This project involves scraping data from Amazon search results and performing da
 
 - `final.py`: Python script for Task 1.
 - `output_{page_number}.html`: HTML files corresponding to the respective page numbers after the search.
-- The outpt of task 1 is saved in `final_output.txt`
+- The output of task 1 is saved in `final_output.txt`
 - `analystt.csv`: CSV file containing raw data gathered from Amazon search results using webscraper.io extension.
 - `Untitled.ipynb`: Jupyter Notebook used for data preprocessing. This notebook was used to clean and process data from `analystt.csv` to generate the required `output.csv`.
 
-## Project Steps for task 2
+## Project Steps for Task 2
 
 1. **Scraping Amazon Data**:
    - Due to restrictions with BeautifulSoup, the web scraping tool webscraper.io extension was used.
